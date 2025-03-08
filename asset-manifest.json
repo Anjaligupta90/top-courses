@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Anjaligupta90/top-courses.git/static/css/main.8c57673f.css",
+    "main.js": "/Anjaligupta90/top-courses.git/static/js/main.b263d490.js",
+    "index.html": "/Anjaligupta90/top-courses.git/index.html",
+    "main.8c57673f.css.map": "/Anjaligupta90/top-courses.git/static/css/main.8c57673f.css.map",
+    "main.b263d490.js.map": "/Anjaligupta90/top-courses.git/static/js/main.b263d490.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c57673f.css",
+    "static/js/main.b263d490.js"
+  ]
+}
